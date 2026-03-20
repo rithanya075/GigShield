@@ -132,7 +132,7 @@ Every 30 minutes:
 
 ---
 
-## 🤖 AI / ML Integration Plan
+##  AI / ML Integration Plan
 
 ### 1. Zone Risk Scoring Model
 - **Algorithm:** Gradient Boosted Decision Tree (XGBoost)
@@ -160,7 +160,7 @@ Every 30 minutes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 | Layer | Technology | Purpose |
@@ -253,10 +253,11 @@ gigshield/
 ```
 
 ---
-Architecture Diagram:![gigshield_winning_architecture](https://github.com/user-attachments/assets/d9b1fba8-6d71-4fd3-9c99-a2f813496bd6)
+Architecture Diagram:![gigshield_architecture](https://github.com/user-attachments/assets/6a36ac0e-6bca-4277-af12-ae03157f5184)
 
 
-## 🗓️ Development Plan
+
+##  Development Plan
 
 ### Phase 1 — Ideation & Foundation (Week 1–2) 
 - [x] Problem research and persona definition
