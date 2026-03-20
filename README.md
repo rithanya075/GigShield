@@ -116,7 +116,7 @@ GigShield monitors **5 automated triggers** using real-time and mock APIs. No ma
 | 4 | Local Curfew / Strike | Zone flagged | Mock Government API | Flat daily rate |
 | 5 | Platform Outage | Swiggy/Zomato down > 2hrs | Mock Platform API | Per lost hour |
 
-### How a Trigger Works (Step by Step)
+### How a Trigger Works 
 ```
 Every 30 minutes:
   → Trigger Engine polls weather + event APIs
@@ -301,7 +301,7 @@ Riders who renew for 4 consecutive weeks get their 5th week free. Riders with ze
 
 ---
 
-##  Coverage Exclusions (Golden Rules)
+##  Coverage Exclusions 
 
 GigShield strictly covers **loss of income ONLY.**
 
